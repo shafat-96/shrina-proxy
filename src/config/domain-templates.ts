@@ -332,8 +332,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -370,8 +370,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -389,8 +389,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -408,8 +408,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -427,8 +427,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -446,8 +446,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -465,8 +465,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -484,8 +484,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
@@ -675,8 +675,8 @@ export const domainTemplates: DomainTemplate[] = [
       },
       headersFn: (url: URL) => {
         return {
-          'origin': 'https://megacloud.club',
-          'referer': 'https://megacloud.club/',
+          'origin': 'https://megacloud.blog',
+          'referer': 'https://megacloud.blog/',
         };
       }
     },
